@@ -2261,7 +2261,7 @@ __metadata:
     "@backstage/errors": "backstage:^"
     "@backstage/integration": "backstage:^"
     "@backstage/plugin-techdocs-common": "backstage:^"
-    "@backstage/plugin-techdocs-node": "backstage:^"
+    "@backstage/plugin-techdocs-node": "^2.0.0"
     "@types/fs-extra": "npm:^11.0.4"
     "@types/node-fetch": "npm:^2.6.11"
     fs-extra: "npm:^11.2.0"
